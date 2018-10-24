@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // Code SimpleComponent Here
 =======
 import React, { Component } from 'react';
@@ -23,4 +22,3 @@ class DumbComponent extends Component {
 }
 
 export default DumbComponent;
->>>>>>> 90366b341b2158b3bc318890436fc4095f76601a
