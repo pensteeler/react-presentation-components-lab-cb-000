@@ -1,5 +1,4 @@
 // Code SimpleComponent Here
-=======
 import React, { Component } from 'react';
 
 class DumbComponent extends Component {
